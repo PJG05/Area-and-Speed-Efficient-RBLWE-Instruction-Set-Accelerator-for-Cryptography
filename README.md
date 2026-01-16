@@ -1,0 +1,2 @@
+# Area-and-Speed-Efficient-RBLWE-Instruction-Set-Accelerator-for-Cryptography
+This repository presents an area and speed efficient instruction set accelerator for RBLWE based post quantum cryptography. The design targets low latency, low power hardware using a bipartite NLFSR architecture and constant time negacyclic polynomial multiplication, improving ADP efficiency and resisting timing side channel attacks.
